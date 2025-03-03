@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-4">
+    <div class="card ">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="mb-0">My Class Teaching</h3>
+
+        </div>
+        <div class="card-body">
+            <div class="d-flex justify-content-between mb-3">
+                
+                <div class="d-flex ">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search class...">
+                    <button class="btn btn-primary">Search</button>
+                </div>
+                <div class="d-flex  ">
+                    <div class="form-group d-flex me-5 align-items-center">
+                        <span for="subjectSelect" class="me-2">Subjects</span>
+                        <select class="form-control" id="subjectSelect">
+                            <option>All</option>
+                            @foreach (var item in ViewBag.Subjects)
+                            {
+                                <option>@item.Name</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="form-group d-flex align-items-center">
+                        <span for="semesterSelect" class=" me-2">Semmester</span>
+                        <select class="form-control" id="semesterSelect">
+                            <option>All</option>
+                            @foreach (var item in ViewBag.Semesters)
+                            {
+                                <option>@item.Name</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered text-center">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>#</th>
+                            <th>Class Code</th>
+                            <th>Class Name</th>
+                            <th>Subject</th>
+                            <th>Semester</th>
+                            <th>Number of Students</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (ViewBag.MyClass != null && ViewBag.MyClass.Count > 0)
+                        {
+                            int index = 1;
+                            @foreach (var item in ViewBag.MyClass)
+                            {
+                                <tr>
+                                    <td>@index</td>
+                                    <td class="fw-bold">@item.Code</td>
+                                    <td>@item.Name</td>
+                                    <td>@item.SubjectNavigation?.Name ( @item.SubjectNavigation?.Code)</td>
+                                    <td>@item.Semester?.Name</td>
+                                    <td>
+                                        @item.StudentClasses.Count
+                                    </td>
+                                    <td>
+                                        <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-warning btn-sm">
+                                            Detail
+                                        </a>
+                                    </td>
+                                </tr>
+                                index++;
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="7" class="text-center text-danger fw-bold">No classes found.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
