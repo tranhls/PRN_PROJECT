@@ -16,9 +16,7 @@ namespace PRN222_Assm
             {
                 options.UseSqlServer(connectionString);
             });
-            builder.Services.AddDbContext<PrnassmContext>(options =>
-    options.UseSqlServer(connectionString, sqlOptions =>
-        sqlOptions.EnableRetryOnFailure())); // Enable transient error resiliency
+
             builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
             builder.Services.AddAuthorization(options =>
             {

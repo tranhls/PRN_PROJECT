@@ -89,8 +89,6 @@ public partial class PrnassmContext : DbContext
         modelBuilder.Entity<Score>(entity =>
         {
             entity.ToTable("Score");
-
-            entity.Property(e => e.Id).ValueGeneratedNever();
             entity.Property(e => e.Pt1).HasColumnName("PT1");
             entity.Property(e => e.Pt2).HasColumnName("PT2");
         });

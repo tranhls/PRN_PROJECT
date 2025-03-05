@@ -6,7 +6,7 @@
 <div class="container mt-4">
     <div class="card shadow-lg">
         <div class="card-header bg-primary text-white text-center">
-            <h3 class="mb-0">@ViewBag.MyClass.Code</h3>
+            <h3 class="mb-0">@ViewBag.MyClass.Code - @ViewBag.MyClass.Semester.Name</h3>
             <h5 class="fw-light">@ViewBag.MyClass.Name</h5>
             <span class="badge bg-light text-dark">@ViewBag.MyClass.SubjectNavigation.Name</span>
             <span class="badge bg-warning">@ViewBag.MyClass.SubjectNavigation.Code</span>
@@ -14,6 +14,9 @@
     </div>
 
     <div class="table-responsive mt-4">
+        <div class="d-flex justify-content-end p-3">
+            <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score</a>
+        </div>
         <table class="table table-hover table-bordered text-center">
             <thead class="table-primary">
                 <tr>

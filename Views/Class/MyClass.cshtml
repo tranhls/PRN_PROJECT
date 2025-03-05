@@ -10,36 +10,37 @@
 
         </div>
         <div class="card-body">
-            <div class="d-flex justify-content-between mb-3">
-                
-                <div class="d-flex ">
-                    <input type="text" id="searchInput" class="form-control" placeholder="Search class...">
-                    <button class="btn btn-primary">Search</button>
-                </div>
-                <div class="d-flex  ">
-                    <div class="form-group d-flex me-5 align-items-center">
-                        <span for="subjectSelect" class="me-2">Subjects</span>
-                        <select class="form-control" id="subjectSelect">
-                            <option>All</option>
-                            @foreach (var item in ViewBag.Subjects)
-                            {
-                                <option>@item.Name</option>
-                            }
-                        </select>
+            <form method="get" asp-action="MyClass">
+                <div class="d-flex justify-content-between mb-3">
+                    <div class="d-flex ">
+                        <input type="text" id="searchInput"name="search" class="form-control" placeholder="Search class...">
+                        <button class="btn btn-primary">Search</button>
                     </div>
+                    <div class="d-flex  ">
+                        <div class="form-group d-flex me-5 align-items-center">
+                            <span for="subjectSelect" class="me-2">Subjects</span>
+                            <select class="form-control" name="subjectSelect" id="subjectSelect">
+                                <option value="0">All</option>
+                                @foreach (var item in ViewBag.Subjects)
+                                {
+                                    <option value="@item.Id" selected="@(ViewBag.SubjectSelect == item.Id ? "selected" : null)">@item.Name</option>
+                                }
+                            </select>
+                        </div>
 
-                    <div class="form-group d-flex align-items-center">
-                        <span for="semesterSelect" class=" me-2">Semmester</span>
-                        <select class="form-control" id="semesterSelect">
-                            <option>All</option>
-                            @foreach (var item in ViewBag.Semesters)
-                            {
-                                <option>@item.Name</option>
-                            }
-                        </select>
+                        <div class="form-group d-flex align-items-center">
+                            <span for="semesterSelect" class=" me-2">Semmester</span>
+                            <select class="form-control"  name="semesterSelect" id="semesterSelect">
+                                <option value="0">All</option>
+                                @foreach (var item in ViewBag.Semesters)
+                                {
+                                    <option value="@item.Id" selected="@(ViewBag.SemesterSelect == item.Id ? "selected" : null)">@item.Name</option>
+                                }
+                            </select>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </form>
             <div class="table-responsive">
                 <table class="table table-hover table-bordered text-center">
                     <thead class="table-dark">

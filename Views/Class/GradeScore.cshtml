@@ -1,0 +1,107 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="mb-0">@ViewBag.MyClass.Code - @ViewBag.MyClass.Semester.Name</h3>
+            <h5 class="fw-light">@ViewBag.MyClass.Name</h5>
+            <span class="badge bg-light text-dark">@ViewBag.MyClass.SubjectNavigation.Name</span>
+            <span class="badge bg-warning">@ViewBag.MyClass.SubjectNavigation.Code</span>
+        </div>
+    </div>
+
+    <div class="table-responsive mt-4">
+        <form method="post" id="frm_grade" asp-action="GradeScore" asp-controller="Class">
+            <input type="hidden" name="classId" value="@ViewBag.MyClass.Id" />
+            <table class="table table-hover table-bordered text-center">
+                <thead class="table-primary">
+                    <tr>
+                        <th>No</th>
+                        <th>Student</th>
+                        <th>PT1</th>
+                        <th>PT2</th>
+                        <th>Quiz</th>
+                        <th>Assignment</th>
+                        <th>Final Exam</th>
+                        <th>Total</th>
+                        <th>Rank</th>
+                    </tr>
+                </thead>
+                <tbody class="align-middle">
+                    @{
+                        int index = 1;
+                        foreach (var item in ViewBag.Students)
+                        {
+                            <tr>
+                                <input type="hidden" name="students[@(index-1)].Id" value="@item.StudentId" />
+                                <td>@index</td>
+                                <td>@item.Student.Name</td>
+                                <td class="col-1">
+                                    <input type="number" class="form-control" name="students[@(index-1)].Pt1" value="@item.Score?.Pt1" @(item.Score?.Pt1 != null ? "readonly" : "") />
+                                </td>
+                                <td class="col-1">
+                                    <input type="number" class="form-control" name="students[@(index-1)].Pt2" value="@item.Score?.Pt2" @(item.Score?.Pt2 != null ? "readonly" : "") />
+                                </td>
+                                <td class="col-1">
+                                    <input type="number" class="form-control" name="students[@(index-1)].Quiz" value="@item.Score?.Quiz" @(item.Score?.Quiz != null ? "readonly" : "") />
+                                </td>
+                                <td class="col-1">
+                                    <input type="number" class="form-control" name="students[@(index-1)].Assignment" value="@item.Score?.Assignment" @(item.Score?.Assignment != null ? "readonly" : "") />
+                                </td>
+                                <td class="col-1">
+                                    <input type="number" class="form-control" name="students[@(index-1)].Final" value="@item.Score?.Final" @(item.Score?.Final != null ? "readonly" : "") />
+                                </td>
+                                <td class="col-1">@(item.Total?.ToString("F2") ?? "Ungraded")</td>
+                                <td>
+                                    @if (item.Total == null)
+                                    {
+                                        <span class="badge bg-secondary">Ungraded</span>
+                                    }
+                                    else if (item.Total >= 8)
+                                    {
+                                        <span class="badge bg-success">Excellent</span>
+                                    }
+                                    else if (item.Total >= 6)
+                                    {
+                                        <span class="badge bg-info">Good</span>
+                                    }
+                                    else if (item.Total >= 4)
+                                    {
+                                        <span class="badge bg-warning text-dark">Average</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-danger">Bad</span>
+                                    }
+                                </td>
+                            </tr>
+                            index++;
+                        }
+                    }
+                </tbody>
+            </table>
+            <div class="d-flex justify-content-end p-3">
+                <a href="@Url.Action("ExportToPdf", "Class", new { classId = ViewBag.MyClass.Id })" class="btn btn-secondary me-3">Export to PDF</a>
+                <a href="@Url.Action("ExportToExcel", "Class", new { classId = ViewBag.MyClass.Id })" class="btn btn-secondary me-3">Export to Excel</a>
+                <button type="submit" class="btn btn-primary">Save</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll("input[type='number']").forEach(input => {
+            input.addEventListener("input", function () {
+                if (this.value > 10) this.value = 10;
+                if (this.value < 0) this.value = 0;
+            });
+        });
+    });
+
+</script>
