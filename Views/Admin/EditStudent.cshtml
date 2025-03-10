@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h3 class="mb-0">Edit Student</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="EditStudent" method="post">
+                        <input type="hidden" name="Id" value="@ViewBag.getInfor.Id" />
+
+                        <div class="mb-3">
+                            <label class="form-label">Student Name</label>
+                            <input value="@ViewBag.getInfor.Name" name="Name" class="form-control" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Student Code</label>
+                            <input value="@ViewBag.getInfor.Code" name="Code" class="form-control" readonly>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Date of Birth</label>
+                            <input value="@ViewBag.getInfor.Dob?.ToString("yyyy-MM-dd")" name="Dob" class="form-control" type="date" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Phone</label>
+                            <input value="@ViewBag.getInfor.Phone" name="Phone" class="form-control" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Address</label>
+                            <input value="@ViewBag.getInfor.Address" name="Address" class="form-control">
+                        </div>
+
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="ManageStudent" class="btn btn-secondary">Cancel</a>
+                            <button type="submit" class="btn btn-success">Save Changes</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

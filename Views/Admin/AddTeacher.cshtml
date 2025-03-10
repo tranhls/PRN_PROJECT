@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Thêm Giáo Viên";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">➕ Thêm Giáo Viên</h3>
+
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+            }
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+            }
+
+            <form asp-action="AddTeacher" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="mb-3">
+                    <label class="form-label">Họ và Tên</label>
+                    <input name="Name" class="form-control" required placeholder="Nhập họ và tên giáo viên">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Mã Giáo Viên</label>
+                    <input name="Code" class="form-control" required placeholder="Nhập mã giáo viên">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Email</label>
+                    <input name="Email" type="email" class="form-control" required placeholder="Nhập email giáo viên">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Số Điện Thoại</label>
+                    <input name="Phone" class="form-control" required pattern="\d{10}" placeholder="Nhập số điện thoại (10 chữ số)">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Ngày Sinh</label>
+                    <input name="Dob" class="form-control" type="date" required>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Địa Chỉ</label>
+                    <textarea name="Address" class="form-control" rows="2" placeholder="Nhập địa chỉ giáo viên"></textarea>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-primary">✅ Thêm Giáo Viên</button>
+                    <a asp-action="ManageTeacher" class="btn btn-secondary">❌ Hủy</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

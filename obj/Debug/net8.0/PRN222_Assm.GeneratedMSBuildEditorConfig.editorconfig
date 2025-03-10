@@ -18,8 +18,64 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/AddClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/AddStudentInClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3R1ZGVudEluQ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/AddSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/AddTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVGVhY2hlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/EditStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/EditSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFN1YmplY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/EditTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/ManageClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlQ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/ManageStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlU3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/ManageSubjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlU3ViamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Admin/ManageTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlVGVhY2hlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Class/Detail.cshtml]
@@ -48,6 +104,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/Student/MyGrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxNeUdyYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DO NHAT TRUNG ANH/Pictures/PRN_PROJECT/PRN_PROJECT/PRN222_Assm/PRN222_Assm/Views/_ViewImports.cshtml]

@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System.Security.Claims;
 using PRN222_Assm.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace PRN222_Assm.Controllers
 {
@@ -43,7 +44,20 @@ namespace PRN222_Assm.Controllers
                 };
                 var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
                 HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(identity));
-                return RedirectToAction("Index", "Home");
+              
+                if (user.Role == 1)
+                {
+                    return RedirectToAction("Index", "Student");
+                }
+                else if (user.Role == 2)
+                {
+                    return RedirectToAction("MyClass", "Class");
+                }
+                else
+                {
+                    return RedirectToAction("Home", "Admin");
+                }
+                
             }
             else
             {
@@ -55,7 +69,43 @@ namespace PRN222_Assm.Controllers
         public IActionResult Logout()
         {
             HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Login", "Account");
+        }
+
+        public IActionResult ChangePassword()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult ChangePassword(string OldPassword, string NewPassword,string ConfirmPassword)
+        {
+            var email = User.FindFirstValue(ClaimTypes.Email);
+            var user = _context.Accounts.FirstOrDefault(u => u.Email == email);
+
+            if (user.Password != OldPassword) {
+                ViewData["Error"] = "Old password is incorrect";
+                return View();
+            }
+
+            if (OldPassword == NewPassword)
+            {
+                ViewData["Error"] = "New password must be different from old password"; ;
+                return View();
+            }
+
+           if (ConfirmPassword != NewPassword)
+           {
+                ViewData["Error"] = "Password not match";
+                return View();
+           }
+
+            user.Password = NewPassword;
+            _context.Update(user);
+            _context.SaveChanges();
+            ViewData["SuccessMessage"] = "Password changed successfully.";
+            return View();
         }
     }
 }

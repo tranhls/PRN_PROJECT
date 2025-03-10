@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Student Class List";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Danh sách lớp học của học sinh</h3>
+
+            <!-- Form tìm kiếm -->
+            <form method="get" asp-action="SearchClass" asp-controller="Admin" class="d-flex mb-3">
+                <div class="input-group">
+                    <input type="text" id="searchInput" name="Search" class="form-control" placeholder="Tìm kiếm học sinh..." value="@Context.Request.Query["Search"]">
+                    <button type="submit" class="btn btn-primary">🔍 Tìm kiếm</button>
+                    <a href="@Url.Action("ManageClass", "Admin")" class="btn btn-secondary">🔄 Làm mới</a>
+                </div>
+            </form>
+
+            <!-- Hiển thị thông báo -->
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+            }
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+            }
+
+            <!-- Bảng danh sách -->
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover text-center align-middle">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>Mã lớp</th>
+                            <th>Tên lớp</th>
+                            <th>Môn học</th>
+                            <th>Ki học</th>
+							<th>Số học sinh</th>
+							<th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (ViewBag.StudentClasses != null && ViewBag.StudentClasses.Count > 0)
+                        {
+                            @foreach (var item in ViewBag.Classes)
+                            {
+                                <tr>
+                                    <td>@item.Code</td>
+									<td>@item.Name</td>
+                                    <td>@item.SubjectNavigation.Code</td>
+                                    <td>@item.Semester.Name</td>
+                                    <td>@item.StudentClasses.Count</td>
+                                    <td>
+                                        <a asp-controller="Class" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-warning btn-sm">
+                                            Detail
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="4" class="text-center text-muted">Không có dữ liệu</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Nút thao tác -->
+            <div class="d-flex justify-content-between mt-3">
+                <a href="@Url.Action("AddClass", "Admin")" class="btn btn-success">➕ Thêm</a>
+            </div>
+        </div>
+    </div>
+</div>

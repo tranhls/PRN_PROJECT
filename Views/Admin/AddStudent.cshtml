@@ -1,0 +1,69 @@
+﻿@model PRN222_Assm.Models.Account
+
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-12">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h3 class="mb-0">Add New Student</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="AddStudent" method="post">
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Student Name</label>
+                            <input asp-for="Name" name="Name" class="form-control" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Dob" class="form-label">Date of Birth</label>
+                            <input asp-for="Dob" name="Dob" class="form-control" type="date" required>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label">Mail</label>
+                            <input asp-for="Email" name="Email" class="form-control" type="email" required>
+                            @if (!string.IsNullOrEmpty(ViewBag.EmailExit))
+                            {
+                                <div class="alert alert-danger mt-2">@ViewBag.EmailExit</div>
+                            }
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Password" class="form-label">Password</label>
+                            <input asp-for="Password" name="Password" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Phone" class="form-label">Phone</label>
+                            <input asp-for="Phone" name="Phone" class="form-control" required>
+                            @if (!string.IsNullOrEmpty(ViewBag.PhoneExit))
+                            {
+                                <div class="alert alert-danger mt-2">@ViewBag.PhoneExit</div>
+                            }
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label">Address</label>
+                            <input asp-for="Address" name="Address" class="form-control">
+                        </div>
+                        
+
+                        <div class="mb-3">
+                            <label asp-for="Code" class="form-label">Student Code</label>
+                            <input asp-for="Code" name="Code" class="form-control" required>
+                            @if (!string.IsNullOrEmpty(ViewBag.CodeExited))
+                            {
+                                <div class="alert alert-danger mt-2">@ViewBag.CodeExited</div>
+                            }
+                        </div>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <button type="submit" class="btn btn-primary">Add Student</button>
+                            <a asp-action="ManageStudent" class="btn btn-danger">Cancel</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

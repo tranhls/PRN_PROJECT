@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Chỉnh sửa Giáo Viên";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">✏️ Chỉnh sửa Giáo Viên</h3>
+
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+            }
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+            }
+
+            <form method="post" asp-action="EditTeacher" asp-controller="Admin">
+                <input type="hidden" name="Id" value="@ViewBag.teacher.Id" />
+
+                <div class="mb-3">
+                    <label for="code" class="form-label">📌 Mã Giáo Viên</label>
+                    <input type="text" id="code" name="Code" class="form-control" value="@ViewBag.teacher.Code" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="name" class="form-label">👤 Họ và Tên</label>
+                    <input type="text" id="name" name="Name" class="form-control" value="@ViewBag.teacher.Name" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="dob" class="form-label">🎂 Ngày Sinh</label>
+                    <input type="date" id="dob" name="Dob" class="form-control" value="@(ViewBag.teacher.Dob?.ToString("yyyy-MM-dd"))">
+                </div>
+
+                <div class="mb-3">
+                    <label for="email" class="form-label">📧 Email</label>
+                    <input type="email" id="email" name="Email" class="form-control" value="@ViewBag.teacher.Email" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="phone" class="form-label">📞 Số Điện Thoại</label>
+                    <input type="text" id="phone" name="Phone" class="form-control" value="@ViewBag.teacher.Phone" required pattern="\d{10}" placeholder="Nhập số điện thoại (10 chữ số)">
+                </div>
+
+                <div class="mb-3">
+                    <label for="address" class="form-label">🏠 Địa Chỉ</label>
+                    <textarea id="address" name="Address" class="form-control" rows="2" required>@ViewBag.teacher.Address</textarea>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-success">Lưu Thay Đổi</button>
+                    <a href="@Url.Action("ManageTeacher", "Admin")" class="btn btn-secondary">❌ Hủy</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

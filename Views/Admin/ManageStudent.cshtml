@@ -1,0 +1,89 @@
+﻿<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Quản lý học sinh</h3>
+
+            <!-- Nút thêm học sinh -->
+            <div class="d-flex justify-content-between mb-3">
+                <a href="/Admin/AddStudent" class="btn btn-success">+ Thêm Học Sinh</a>
+
+                <!-- Form tìm kiếm -->
+                <form method="get" asp-action="SearchStudent" asp-controller="Admin" class="d-flex">
+                    <div class="input-group">
+                        <input type="text" id="searchInput" name="Search" class="form-control" placeholder="Tìm kiếm học sinh..." value="@Context.Request.Query["Search"]">
+                        <button type="submit" class="btn btn-primary">Tìm Kiếm</button>
+                        <a href="@Url.Action("ManageStudent", "Admin")" class="btn btn-secondary">Làm Mới</a>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Bảng danh sách học sinh -->
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover text-center align-middle">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>Mã SV</th>
+                            <th>Tên</th>
+                            <th>Ngày sinh</th>
+                            <th>Email</th>
+                            <th>SĐT</th>
+                            <th>Địa chỉ</th>
+                            <th>Lớp</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody id="studentTable">
+                        @foreach (var student in @ViewBag.listStudent)
+                        {
+                            <tr id="row-@student.Code">
+                                <td>@student.Code</td>
+                                <td>@student.Name</td>
+                                <td>@(student.Dob?.ToString("dd/MM/yyyy") ?? "N/A")</td>
+                                <td>@student.Email</td>
+                                <td>@student.Phone</td>
+                                <td>@student.Address</td>
+                                <td>
+                                    @if (student.Classes.Count > 0)
+                                    {
+                                        foreach (var cls in student.Classes)
+                                        {
+                                            <span class="badge bg-info text-dark">@cls.Code</span>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <span class="text-muted">Chưa có lớp</span>
+                                    }
+                                </td>
+                                <td>
+                                    <a href="/Admin/EditStudent/@student.Id" class="btn btn-warning btn-sm">✏️ Sửa</a>
+                                    <button class="btn btn-danger btn-sm" onclick="confirmDelete('@student.Id')">🗑️ Xóa</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Hiển thị thông báo -->
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger mt-3">@TempData["ErrorMessage"]</div>
+            }
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success mt-3">@TempData["SuccessMessage"]</div>
+            }
+        </div>
+    </div>
+</div>
+
+<!-- Script xác nhận xóa -->
+<script>
+    function confirmDelete(accountId) {
+        if (confirm("Bạn có chắc chắn muốn xóa học sinh này không?")) {
+            window.location.href = "@Url.Action("RemoveStudent", "Admin")" + "?accountId=" + accountId;
+        }
+    }
+</script>

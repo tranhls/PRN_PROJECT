@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Manage Student in Class";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Quản lý học sinh trong lớp</h3>
+
+            <!-- Hiển thị thông báo -->
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+            }
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+            }
+
+            @if (!string.IsNullOrEmpty(ViewBag.sExisted))
+            {
+                <div class="alert alert-danger">@ViewBag.sExisted</div>
+            }
+
+            <!-- Form thêm học sinh vào lớp -->
+            <form method="post" action="@Url.Action("AddStudentInClass", "Admin")">
+                <div class="mb-3">
+                    <label for="studentId" class="form-label">Chọn học sinh:</label>
+                    <select class="form-select" name="studentId" id="studentId" required>
+                        <option value="">-- Chọn học sinh --</option>
+                        @foreach (var student in ViewBag.Students)
+                        {
+                            <option value="@student.Id">@student.Name</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="classId" class="form-label">Chọn lớp:</label>
+                    <select class="form-select" name="classId" id="classId" required>
+                        <option value="">-- Chọn lớp --</option>
+                        @foreach (var cls in ViewBag.Classes)
+                        {
+                            <option value="@cls.Id">@cls.Code</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-success">➕ Thêm vào lớp</button>
+                    <a href="@Url.Action("ManageClass", "Admin")" class="btn btn-secondary">🔄 Quay lại</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

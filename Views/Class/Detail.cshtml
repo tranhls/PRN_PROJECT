@@ -1,7 +1,13 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+﻿@using System.Security.Claims
+@*
 *@
 @{
+    var userEmail = User.FindFirst(ClaimTypes.Email)?.Value;
+    var userRole = User.FindFirst(ClaimTypes.Role)?.Value;
+    if (userRole == null)
+    {
+        userRole = "Guest";
+    }
 }
 <div class="container mt-4">
     <div class="card shadow-lg">
@@ -14,30 +20,44 @@
     </div>
 
     <div class="table-responsive mt-4">
-        <div class="d-flex justify-content-end p-3">
-            <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score</a>
-        </div>
-        <table class="table table-hover table-bordered text-center">
-            <thead class="table-primary">
-                <tr>
-                    <th>No</th>
-                    <th>Code</th>
-                    <th>Name</th>
-                    <th>Email</th>
+        @if (userRole == "Teacher")
+        {
+            <div class="d-flex justify-content-end p-3">
+                <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score</a>
+            </div>
+        }
+        else if (userRole == "Admin") {
+            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#studentModal">
+                Add Student
+            </button>
+        }
+    </div>
+    <table class="table table-hover table-bordered text-center">
+        <thead class="table-primary">
+            <tr>
+                <th>No</th>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Email</th>
+                @if (userRole != "Student")
+                {
                     <th>Total</th>
                     <th>Rank</th>
-                </tr>
-            </thead>
-            <tbody class="align-middle">
-                @{
-                    int index = 1;
-                    @foreach (var item in ViewBag.Students)
-                    {
-                        <tr>
-                            <td>@index</td>
-                            <td class="fw-bold">@item.Student.Code</td>
-                            <td>@item.Student.Name</td>
-                            <td>@item.Student.Email</td>
+                }
+            </tr>
+        </thead>
+        <tbody class="align-middle">
+            @{
+                int index = 1;
+                @foreach (var item in ViewBag.Students)
+                {
+                    <tr>
+                        <td>@index</td>
+                        <td class="fw-bold">@item.Student.Code</td>
+                        <td>@item.Student.Name</td>
+                        <td>@item.Student.Email</td>
+                        @if (userRole != "Student")
+                        {
                             <td>@(item.Total == null ? "Ungraded" : item.Total)</td>
                             <td>
                                 @if (item.Total == null)
@@ -61,12 +81,41 @@
                                     <span class="badge bg-danger">Bad</span>
                                 }
                             </td>
-                        </tr>
+                        }
+                    </tr>
                         index++;
                     }
                 }
             </tbody>
         </table>
+    </div>
+
+<div class="modal fade" id="studentModal" tabindex="-1" aria-labelledby="studentModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="studentModalLabel">Add New Student</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="post" asp-controller="Admin" asp-action="AddStudentInClass">
+                <div class="modal-body">
+                        <div class="mb-3">
+                            <input type="hidden" name="classId" value="@ViewBag.MyClass.Id" />
+                            @foreach (var s in ViewBag.AllStudent){
+                                <div>
+                                <input class="form-check-input me-3" type="checkbox" name="studentId" value="@s.Id">        
+                                    <span class="fw-bold text-primary">@s.Code</span> -
+                                    <span>@s.Name</span>
+                                </div>
+                            }
+                        </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary" id="saveStudent">Save</button>
+                </div>
+            </form>
+        </div>
     </div>
 </div>
 

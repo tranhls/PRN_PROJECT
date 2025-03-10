@@ -8,6 +8,7 @@ using PRN222_Assm.Models;
 using System;
 using System.IO;
 using System.Security.Claims;
+using static iText.StyledXmlParser.Jsoup.Select.Evaluator;
 
 namespace PRN222_Assm.Controllers
 {
@@ -72,9 +73,13 @@ namespace PRN222_Assm.Controllers
                                            .Include(c => c.Semester)
                                            .Include(c => c.SubjectNavigation)
                                            .FirstOrDefault(c => c.Id == id);
+            var allStudent = _context.Accounts
+                .Where(s => s.Role == 1 && !_context.StudentClasses.Any(cs => cs.StudentId == s.Id && cs.ClassId == id))
+                .OrderByDescending(s => s.Name)
+                .ToList();
 
 
-
+            ViewBag.AllStudent = allStudent;
             ViewBag.Students = students;
             ViewBag.MyClass = myClass;
             return View();
@@ -110,7 +115,7 @@ namespace PRN222_Assm.Controllers
             foreach (var sc in students)
             {
                 var studentClass = _context.StudentClasses.Include(s => s.Score).FirstOrDefault(s => s.StudentId == sc.Id && s.ClassId == classId);
-                if (studentClass.Score == null)
+                if (studentClass == null)
                 {
 
                     Score score = new Score

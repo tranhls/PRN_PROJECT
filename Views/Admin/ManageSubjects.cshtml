@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Manage Subjects";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center">Manage Subjects</h2>
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <a href="/Admin/AddSubject" class="btn btn-success">+ Add Subject</a>
+
+        <form method="get" asp-action="SearchSubjects" asp-controller="Admin" class="d-flex">
+            <input type="text" id="searchInput" name="Search" class="form-control me-2"
+                   placeholder="Search subjects..." value="@Context.Request.Query["Search"]">
+            <button type="submit" class="btn btn-primary">Search</button>
+            <a href="@Url.Action("ManageSubjects", "Admin")" class="btn btn-secondary ms-2">Refresh</a>
+        </form>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-striped">
+            <thead class="table-primary">
+                <tr>
+                    <th>Name</th>
+                    <th>Code</th>
+                    <th>Category ID</th>
+                    <th>Category Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var subject in ViewBag.Subjects)
+                {
+                    <tr id="row-@subject.Id">
+                        <td>@subject.Name</td>
+                        <td>@subject.Code</td>
+                        <td>@subject.Category</td>
+                        <td>@subject.CategoryName</td>
+                        <td>
+                            <div class="btn-group">
+                                <a href="/Admin/EditSubject/@subject.Id" class="btn btn-warning btn-sm">Edit</a>
+                                <button class="btn btn-danger btn-sm" onclick="confirmDelete('@subject.Id')">Delete</button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger mt-3">@TempData["ErrorMessage"]</div>
+    }
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success mt-3">@TempData["SuccessMessage"]</div>
+    }
+</div>
+
+<script>
+    function confirmDelete(subId) {
+        if (confirm("Are you sure you want to delete this subject?")) {
+            window.location.href = "@Url.Action("RemoveSubject", "Admin")" + "?subId=" + subId;
+        }
+    }
+</script>

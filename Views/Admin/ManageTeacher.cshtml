@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Quản lý Giáo Viên";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Quản lý Giáo Viên</h3>
+
+            <!-- Nút thêm giáo viên + Form tìm kiếm -->
+            <div class="d-flex justify-content-between mb-3">
+                <a href="/Admin/AddTeacher" class="btn btn-success">➕ Thêm Giáo Viên</a>
+
+                <form method="get" asp-action="SearchTeacher" asp-controller="Admin" class="d-flex">
+                    <div class="input-group">
+                        <input type="text" id="searchInput" name="Search" class="form-control" placeholder="Tìm kiếm giáo viên..." value="@Context.Request.Query["Search"]">
+                        <button type="submit" class="btn btn-primary">🔍 Tìm Kiếm</button>
+                        <a href="@Url.Action("ManageTeacher", "Admin")" class="btn btn-secondary">🔄 Làm Mới</a>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Hiển thị thông báo -->
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+            }
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+            }
+
+            <!-- Bảng danh sách giáo viên -->
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover text-center align-middle">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>Mã GV</th>
+                            <th>Tên</th>
+                            <th>Ngày sinh</th>
+                            <th>Email</th>
+                            <th>SĐT</th>
+                            <th>Địa chỉ</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var teacher in ViewBag.listTeachers)
+                        {
+                            <tr id="row-@teacher.Code">
+                                <td>@teacher.Code</td>
+                                <td>@teacher.Name</td>
+                                <td>@(teacher.Dob?.ToString("dd/MM/yyyy") ?? "N/A")</td>
+                                <td>@teacher.Email</td>
+                                <td>@teacher.Phone</td>
+                                <td>@teacher.Address</td>
+                                <td>
+                                    <a href="/Admin/EditTeacher/@teacher.Id" class="btn btn-warning btn-sm">✏️ Sửa</a>
+                                    <button class="btn btn-danger btn-sm" onclick="confirmDelete('@teacher.Id')">🗑️ Xóa</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Script xác nhận xóa -->
+<script>
+    function confirmDelete(accountId) {
+        if (confirm("Bạn có chắc chắn muốn xóa giáo viên này không?")) {
+            window.location.href = "@Url.Action("RemoveTeacher", "Admin")" + "?accountId=" + accountId;
+        }
+    }
+</script>
+>
