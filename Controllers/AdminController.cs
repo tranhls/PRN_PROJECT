@@ -198,19 +198,9 @@ namespace PRN222_Assm.Controllers
 
         public IActionResult SearchClass(string Search)
         {
-            
             var StudentClasses = _contextDAO.StudentClasses.Include(sc => sc.Student).Include(sc => sc.Class)
                 .Where(sc => sc.Class.Code.Contains(Search))
                 .ToList();
-            var classIds = StudentClasses.Select(sc => sc.Class.Id).Distinct().ToList();
-
-            var classes = _contextDAO.Classes
-                .Include(sc => sc.StudentClasses)
-                .Include(sc => sc.SubjectNavigation)
-                .Include(sc => sc.Semester)
-                .Where(c => classIds.Contains(c.Id))
-                .ToList();
-            ViewBag.Classes = classes;
             ViewBag.StudentClasses = StudentClasses;
             return View("ManageClass");
         }

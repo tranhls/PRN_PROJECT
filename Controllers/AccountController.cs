@@ -107,5 +107,49 @@ namespace PRN222_Assm.Controllers
             ViewData["SuccessMessage"] = "Password changed successfully.";
             return View();
         }
+
+
+        public IActionResult ForgotPassword(string email = "")
+        {
+
+            if (string.IsNullOrEmpty(email))
+            {
+                return View();
+            }
+            
+            var user = _context.Accounts.FirstOrDefault(u => u.Email == email);
+            if (user == null)
+            {
+                ViewData["Error"] = "Email not found";
+                return View();
+            }
+            return RedirectToAction("NewPassword", user);
+        }
+
+        public IActionResult NewPassword( Account user)
+        {
+            ViewBag.user = user;
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> NewPassword(string id,string NewPassword, string ConfirmPassword)
+        {
+
+            var user = _context.Accounts.FirstOrDefault(u => u.Id == int.Parse(id));
+            if (ConfirmPassword != NewPassword)
+            {
+                ViewData["Error"] = "Password not match";
+                return View();
+            }
+
+            user.Password = NewPassword;
+            _context.Update(user);
+            _context.Entry(user).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            ViewData["SuccessMessage"] = "Password changed successfully.";
+            ViewBag.user = user;
+            return View();
+        }
     }
 }
