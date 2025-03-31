@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using OfficeOpenXml;
 using PRN222_Assm.Models;
 using System;
+using System.Collections;
 using System.IO;
 using System.Security.Claims;
 using static iText.StyledXmlParser.Jsoup.Select.Evaluator;
@@ -77,8 +78,7 @@ namespace PRN222_Assm.Controllers
                 .Where(s => s.Role == 1 && !_context.StudentClasses.Any(cs => cs.StudentId == s.Id && cs.ClassId == id))
                 .OrderByDescending(s => s.Name)
                 .ToList();
-
-
+          
             ViewBag.AllStudent = allStudent;
             ViewBag.Students = students;
             ViewBag.MyClass = myClass;
@@ -115,7 +115,7 @@ namespace PRN222_Assm.Controllers
             foreach (var sc in students)
             {
                 var studentClass = _context.StudentClasses.Include(s => s.Score).FirstOrDefault(s => s.StudentId == sc.Id && s.ClassId == classId);
-                if (studentClass == null)
+                if (studentClass.Score == null)
                 {
 
                     Score score = new Score
@@ -151,6 +151,104 @@ namespace PRN222_Assm.Controllers
             return RedirectToAction("GradeScore", "Class", new { id = classId });
         }
 
+
+        //--------------attendance
+        public IActionResult AttandenceStudent(int id)
+        {
+
+            var studentClass = _context.StudentClasses.Where(sc => sc.ClassId == id)
+                                                       .Include(sc => sc.Student)
+                                                       .Include(s => s.Score)
+                                                       .ToList();
+            var students = _context.StudentClasses.Where(sc => sc.ClassId == id)
+                                                    .Include(s => s.Student)
+                                                    .ToList();
+
+            var myClass = _context.Classes.Include(c => c.SubjectNavigation)
+                                           .Include(c => c.Semester)
+                                           .Include(c => c.SubjectNavigation)
+                                           .FirstOrDefault(c => c.Id == id);
+
+
+            ViewBag.ClassId = id;
+            ViewBag.MyClass = myClass;
+            ViewBag.Students = students;
+            ViewBag.studentClass = studentClass;
+            return View();
+        }
+
+
+        public IActionResult AttandenceStudentForm(int day, int classId) { 
+            var attendanceDetails = _context.Attendances.Where(sc => sc.Class.ClassId == classId && sc.Day == day)
+                .Include(c => c.Class)
+                .Include(c => c.Class.Student)
+                .ToList();
+
+
+            List<Account> student = new List<Account>();
+            foreach (var attendance in attendanceDetails) {
+                if (attendance?.Class != null && attendance.Class.Student != null)
+                {
+                    student.Add(attendance.Class.Student);
+                }
+            }
+
+            //Console.WriteLine("class Id = " + classId);
+            Console.WriteLine("student size = " + student.Count);
+            Console.WriteLine("size of thisssssssssssssssssssssss: " + attendanceDetails.Count);
+
+            ViewBag.Students = student;
+            ViewBag.Day = day;
+            ViewBag.ClassId = classId;
+            ViewBag.AttendanceDetails = attendanceDetails;
+
+            return View();
+        }
+
+
+        //---post method
+        [HttpPost]
+        public IActionResult SubmitAttendance(int classId, int day, List<int> attendanceIds, IFormCollection form)
+        {
+            Console.WriteLine("we are herre");
+            if (attendanceIds != null && attendanceIds.Count > 0)
+            {
+                foreach (var attendanceId in attendanceIds)
+                {
+                    // Lấy giá trị từ form cho mỗi attendance ID
+                    string isPresentKey = $"isPresent_{attendanceId}";
+                    bool isPresent = false;
+
+                    if (form.ContainsKey(isPresentKey))
+                    {
+                        // Chuyển đổi "true"/"false" thành boolean
+                        bool.TryParse(form[isPresentKey], out isPresent);
+                    }
+
+                    // Tìm attendance trong database và cập nhật
+                    var attendance = _context.Attendances.Find(attendanceId);
+                    if (attendance != null)
+                    {
+                        attendance.isPresent = isPresent;
+                        // Cập nhật các thông tin khác nếu cần
+                    }
+                }
+
+                // Lưu thay đổi vào database
+                _context.SaveChanges();
+
+                // Redirect hoặc thông báo thành công
+                //return RedirectToAction("AttendanceSuccess", new { classId = classId, day = day });
+                return Redirect("/Class/MyClass");
+            }
+
+            // Xử lý lỗi nếu không có dữ liệu
+            //return RedirectToAction("Error");
+            //return Redirect("https://localhost:7020/Class/MyClass");
+            return Redirect("/Class/MyClass");
+        }
+
+        //--------------end of attendance
 
 
         [HttpGet]
@@ -259,6 +357,9 @@ namespace PRN222_Assm.Controllers
                 return File(excelBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", $"Class_{myClass.Name.Trim()}_Grade.xlsx");
             }
         }
+
+       
+
     }
     public class StudentScoreViewModel
     {

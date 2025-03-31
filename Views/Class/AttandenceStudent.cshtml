@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "AttandenceStudent";
+}
+
+<div class="container mt-4">
+    <h3 class="text-center">Select Attendance for Class @ViewBag.ClassId</h3>
+
+    <table class="table table-hover table-bordered text-center mt-4">
+        <thead class="table-primary">
+            <tr>
+                <th>Day</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int day = 1; day <= 15; day++)
+            {
+                <tr onclick="selectDay(@day)">
+                    <td>@day</td>
+                    <td><button class="btn btn-info">Select</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function selectDay(day) {
+        // Chỉ cần hiển thị giá trị ngày đã chọn
+        // alert("You selected Day " + day);
+
+        // alert('12345');
+        var classId = @ViewBag.ClassId;
+        var url = '@Url.Action("AttandenceStudentForm", "Class")?day=' + day + '&classId=' + classId;
+        // alert("send to derect: " + url);
+        window.location.href = '@Url.Action("AttandenceStudentForm", "Class")?day=' + day + '&classId=' + classId;
+    }
+</script>

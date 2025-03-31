@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using System.Security.Claims;
 using PRN222_Assm.Models;
 using Microsoft.AspNetCore.Identity;
+using PRN222_Assm.Helper;
 
 namespace PRN222_Assm.Controllers
 {
@@ -13,11 +14,13 @@ namespace PRN222_Assm.Controllers
     {
         private readonly IConfiguration _configuration;
         private PrnassmContext _context;
+        private readonly SendMail _sendMail;
 
-        public AccountController(PrnassmContext context, IConfiguration configuration)
+        public AccountController(PrnassmContext context, IConfiguration configuration,SendMail sendMail)
         {
             _context = context;
             _configuration = configuration;
+            _sendMail = sendMail;
         }
 
         [HttpGet]
@@ -29,8 +32,27 @@ namespace PRN222_Assm.Controllers
         public IActionResult Login(string email, string password)
         {
 
-            var user = _context.Accounts.FirstOrDefault(u => u.Email == email && u.Password == password);
-            
+            //var user = _context.Accounts.FirstOrDefault(u => u.Email == email && u.Password == password);
+
+            bool isPass = false;
+            var user = _context.Accounts.FirstOrDefault(u => u.Email == email);
+
+            try
+            {
+                isPass = BCrypt.Net.BCrypt.Verify(password, user.Password);
+            }
+            catch(Exception e)
+            {
+                isPass = false;
+            }
+
+            if (user == null || isPass == false)
+            {
+                ViewData["Error"] = "Invalid email or password.";
+                return View();
+            }
+
+
 
             if (user != null)
             {
@@ -84,7 +106,18 @@ namespace PRN222_Assm.Controllers
             var email = User.FindFirstValue(ClaimTypes.Email);
             var user = _context.Accounts.FirstOrDefault(u => u.Email == email);
 
-            if (user.Password != OldPassword) {
+            bool isPass = false;
+            bool isMatchPre = false;
+            try
+            {
+                isPass = BCrypt.Net.BCrypt.Verify(OldPassword, user.Password);
+            }
+            catch(Exception e)
+            {
+                isPass = false;
+            }
+
+            if (isPass == false) {
                 ViewData["Error"] = "Old password is incorrect";
                 return View();
             }
@@ -101,7 +134,8 @@ namespace PRN222_Assm.Controllers
                 return View();
            }
 
-            user.Password = NewPassword;
+            string hashedPassword = BCrypt.Net.BCrypt.HashPassword(NewPassword);
+            user.Password = hashedPassword;
             _context.Update(user);
             _context.SaveChanges();
             ViewData["SuccessMessage"] = "Password changed successfully.";
@@ -123,11 +157,18 @@ namespace PRN222_Assm.Controllers
                 ViewData["Error"] = "Email not found";
                 return View();
             }
-            return RedirectToAction("NewPassword", user);
+            string encodedEmail = email;
+            string confirmLink = Url.Action("NewPassword", "Account", new { email = email }, Request.Scheme);
+            string subject = "Forgot password!!";
+            string body = $"Please click the following link to get your password: <a href='{confirmLink}'>Confirm Password</a>";
+            _sendMail.SendVerificationEmail(email, subject, body);
+            ViewData["Success"] = "Send Mail Successfully, Please check your email";
+            return View();
         }
 
-        public IActionResult NewPassword( Account user)
+        public IActionResult NewPassword( string email)
         {
+            var user = _context.Accounts.FirstOrDefault(u => u.Email == email);
             ViewBag.user = user;
             return View();
         }
@@ -137,6 +178,7 @@ namespace PRN222_Assm.Controllers
         {
 
             var user = _context.Accounts.FirstOrDefault(u => u.Id == int.Parse(id));
+            ViewBag.user = user;
             if (ConfirmPassword != NewPassword)
             {
                 ViewData["Error"] = "Password not match";
@@ -148,7 +190,6 @@ namespace PRN222_Assm.Controllers
             _context.Entry(user).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             ViewData["SuccessMessage"] = "Password changed successfully.";
-            ViewBag.user = user;
             return View();
         }
     }

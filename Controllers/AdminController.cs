@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using iText.Commons.Actions.Contexts;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using PRN222_Assm.Models;
 
@@ -7,9 +9,11 @@ namespace PRN222_Assm.Controllers
     public class AdminController : Controller
     {
         private readonly PrnassmContext _contextDAO;
-        public AdminController(PrnassmContext context)
+        private readonly IHubContext<SignalRHub> _signalRHub;
+        public AdminController(PrnassmContext context, IHubContext<SignalRHub> client)
         {
             _contextDAO = context;
+            _signalRHub = client;
         }
         public IActionResult Home()
         {
@@ -44,7 +48,7 @@ namespace PRN222_Assm.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddStudent(string Name, DateOnly Dob, string Phone,string Email, string Password ,string Address, string Code)
+        public async Task<IActionResult> AddStudent(string Name, DateOnly Dob, string Phone,string Email, string Password ,string Address, string Code)
         {
             var student = _contextDAO.Accounts.FirstOrDefault(st => st.Code == Code);
             if (student != null)
@@ -65,19 +69,23 @@ namespace PRN222_Assm.Controllers
                 ViewBag.PhoneExit = "Phone is exited please input different Phone";
                 return View();
             }
+
+            string hashedPassword = BCrypt.Net.BCrypt.HashPassword(Password);
             Account ac = new Account
             {
                 Name = Name,
                 Dob = Dob,
                 Phone = Phone,
                 Email = Email,
-                Password = Password,
+                Password = hashedPassword,
                 Address = Address,
                 Code = Code,
                 Role = 1
             };
             _contextDAO.Accounts.Add(ac);
             _contextDAO.SaveChanges();
+
+            await _signalRHub.Clients.All.SendAsync("OnChangeData");
             return RedirectToAction("ManageStudent");
         }
 
@@ -113,7 +121,7 @@ namespace PRN222_Assm.Controllers
 
 
         [HttpPost]
-        public IActionResult EditStudent(int Id, string Code, string Name, DateOnly Dob, string Phone, string Address)
+        public async Task<IActionResult> EditStudent(int Id, string Code, string Name, DateOnly Dob, string Phone, string Address)
         {
             var student = _contextDAO.Accounts.FirstOrDefault(st => st.Id == Id);
             if (student == null)
@@ -128,11 +136,11 @@ namespace PRN222_Assm.Controllers
 
             _contextDAO.Accounts.Update(student);
             _contextDAO.SaveChanges();
-
+            await _signalRHub.Clients.All.SendAsync("OnChangeData");
             return RedirectToAction("ManageStudent");
         }
 
-        public IActionResult RemoveStudent(int accountId)
+        public async Task<IActionResult> RemoveStudent(int accountId)
         {
             try
             {
@@ -148,6 +156,7 @@ namespace PRN222_Assm.Controllers
                 _contextDAO.SaveChanges();
 
                 TempData["SuccessMessage"] = "Student removed successfully.";
+                await _signalRHub.Clients.All.SendAsync("OnChangeData");
             }
             catch (Exception ex)
             {
@@ -161,13 +170,14 @@ namespace PRN222_Assm.Controllers
         {
             var students = _contextDAO.Accounts.Where(ac => ac.Role == 1);
             var Classes = _contextDAO.Classes.ToList();
+
             ViewBag.Students = students;
             ViewBag.Classes = Classes;
             return View();
         }
 
         [HttpPost]
-        public IActionResult AddStudentInClass(int classId, int[] studentId)
+        public async Task<IActionResult> AddStudentInClass(int classId, int[] studentId)
         {
             foreach (var student in studentId)
             {
@@ -178,6 +188,20 @@ namespace PRN222_Assm.Controllers
                 };
                 _contextDAO.StudentClasses.Add(sc);
                 _contextDAO.SaveChanges();
+
+                for(int i = 1; i <= 15; i++)
+                {
+                    Attendance attendance = new Attendance
+                    {
+                        Class = sc,
+                        Day = i,
+                        isPresent = false
+                    };
+
+                    _contextDAO.Attendances.Add(attendance);
+                    _contextDAO.SaveChanges();
+                }
+                await _signalRHub.Clients.All.SendAsync("OnChangeData");
             }
             return RedirectToAction("ManageClass");
         }
@@ -225,7 +249,7 @@ namespace PRN222_Assm.Controllers
             {
                 _contextDAO.Classes.Add(classObj);
                 _contextDAO.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("ManageClass");
             }
 
             ViewBag.Subjects = _contextDAO.Subjects.ToList();
@@ -375,11 +399,19 @@ namespace PRN222_Assm.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddTeacher(string Name, string Code, string Email, string Phone, DateOnly Dob, string Address)
+        public IActionResult AddTeacher(string Name, string Code, string Email, string Phone, DateOnly Dob, string Address, string Password)
         {
+            var teacherEmail = _contextDAO.Accounts.FirstOrDefault(st => st.Email == Email);
+            if (teacherEmail != null)
+            {
+                ViewBag.EmailExit = "Email is exited please input different Email";
+                return View();
+            }
+            string hashedPassword = BCrypt.Net.BCrypt.HashPassword(Password);
             var teacher = new Account
             {
                 Name = Name,
+                Password = hashedPassword,
                 Email = Email,
                 Code = Code,
                 Phone = Phone,
@@ -407,6 +439,16 @@ namespace PRN222_Assm.Controllers
             ViewBag.listTeachers = listTeachers;
             return View("ManageTeacher");
 
+        }
+
+        public IActionResult SearchTeacher(string Search)
+        {
+            var listTeachers = _contextDAO.Accounts
+                .Where(tc => tc.Role == 2 && tc.Name.Contains(Search))
+                .ToList();
+
+            ViewBag.listTeachers = listTeachers;
+            return View("ManageTeacher");
         }
 
     }

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BKPd4+bJnStRL6G4W6cGQ2xs4xxWC89skEu0oIzyabmVdOXXbZXn7JC7W93nlKC0r+/LMR6YghTjUEpgzX8Ciw==",
+  "dgSpecHash": "mcSrH1bHizcO+z3nkIRSzGiLLscerM4mZ9BbTkHwMAsjXJEKoRo5pPjCtiDv5A27YYb8PY7q4G0IscZkkpT/Zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DO NHAT TRUNG ANH\\Pictures\\PRN_PROJECT\\PRN_PROJECT\\PRN222_Assm\\PRN222_Assm\\PRN222_Assm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DO NHAT TRUNG ANH\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DO NHAT TRUNG ANH\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\DO NHAT TRUNG ANH\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\DO NHAT TRUNG ANH\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\DO NHAT TRUNG ANH\\.nuget\\packages\\epplus\\7.6.0\\epplus.7.6.0.nupkg.sha512",
     "C:\\Users\\DO NHAT TRUNG ANH\\.nuget\\packages\\epplus.interfaces\\7.5.0\\epplus.interfaces.7.5.0.nupkg.sha512",

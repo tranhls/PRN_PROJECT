@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PRN222_Assm.Models;
 
@@ -12,6 +14,8 @@ public partial class Account
     public DateOnly? Dob { get; set; }
 
     public string? Email { get; set; }
+
+    [Column(TypeName = "NVARCHAR(MAX)")]
     public string? Password { get; set; }
 
     public string? Phone { get; set; }

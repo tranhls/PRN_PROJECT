@@ -22,9 +22,9 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#" >PRN222_Assm</a>
+                <a class="navbar-brand" href="#" >FAP</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
@@ -42,14 +42,14 @@
                                 <a class="nav-link" asp-controller="Student" asp-action="Index">Home</a>
                             }
                         </li>
-                   
+
                     </ul>
                     <ul class="navbar-nav">
                         @if (!string.IsNullOrEmpty(userEmail))
                         {
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                   data-bs-toggle="dropdown" aria-expanded="false">
+                                data-bs-toggle="dropdown" aria-expanded="false">
                                     Welcome, @userEmail
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -81,14 +81,68 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    @if (1 == 2)
+    {
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2025 - PRN222_Assm - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </footer>
+    }
+    
+    <footer class="footer mt-auto py-3">
         <div class="container">
-            &copy; 2025 - PRN222_Assm - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="d-flex align-items-center mb-3 mb-md-0">
+                        <span class="fw-bold text-primary me-2">PRN222</span>
+                        <span class="text-muted">| Assignment 2025</span>
+                    </div>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <ul class="list-inline mb-0">
+                        <li class="list-inline-item">
+                            <a href="#" class="text-decoration-none text-muted">Policy</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" class="text-decoration-none text-muted">Terms</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </footer>
+
+    <style>
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+
+        body {
+            margin-bottom: 60px; /* Height of the footer */
+        }
+
+        .footer {
+            background-color: #f8f9fa;
+            border-top: 1px solid rgba(0,0,0,0.05);
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: auto;
+            line-height: 1.5;
+        }
+
+            .footer a:hover {
+                color: #0d6efd !important;
+            }
+    </style>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>
+

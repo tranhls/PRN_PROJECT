@@ -1,9 +1,328 @@
-﻿<div class="container text-center mt-5">
-    <h2 class="mb-4">Admin Management</h2>
-    <div class="d-flex flex-wrap justify-content-center gap-3">
-        <a href="/Admin/ManageStudent" class="btn btn-primary">Manage Students</a>
-        <a href="/Admin/ManageSubjects" class="btn btn-success">Manage Subjects</a>
-        <a href="/Admin/ManageClass" class="btn btn-warning">Manage Class</a>
-        <a href="/Admin/ManageTeacher" class="btn btn-danger">Manage Teachers</a>
+﻿@if(1 == 2)
+{
+    <div class="container text-center mt-5">
+        <h2 class="mb-4">Admin Management</h2>
+        <div class="d-flex flex-wrap justify-content-center gap-3">
+            <a href="/Admin/ManageStudent" class="btn btn-primary">Manage Students</a>
+            <a href="/Admin/ManageSubjects" class="btn btn-success">Manage Subjects</a>
+            <a href="/Admin/ManageClass" class="btn btn-warning">Manage Class</a>
+            <a href="/Admin/ManageTeacher" class="btn btn-danger">Manage Teachers</a>
+        </div>
     </div>
-</div>
+}
+
+<!-- Trang Admin Dashboard với thiết kế hiện đại -->
+<div class="dashboard-container">
+    <!-- Header với gradient và hiệu ứng -->
+    <div class="dashboard-header">
+        <h1>Admin Dashboard</h1>
+        <p>Hệ thống quản lý giáo dục</p>
+    </div>
+
+    <!-- Cards container với hiệu ứng hover 3D -->
+    <div class="dashboard-cards">
+        <a href="/Admin/ManageStudent" class="dashboard-card student-card">
+            <div class="card-icon">
+                <i class="bi bi-people-fill"></i>
+            </div>
+            <div class="card-content">
+                <h3>Quản lý Học sinh</h3>
+                <p>Xem và quản lý thông tin học sinh</p>
+            </div>
+            <div class="card-arrow">
+                <i class="bi bi-arrow-right-circle"></i>
+            </div>
+        </a>
+
+        <a href="/Admin/ManageSubjects" class="dashboard-card subject-card">
+            <div class="card-icon">
+                <i class="bi bi-journal-text"></i>
+            </div>
+            <div class="card-content">
+                <h3>Quản lý Môn học</h3>
+                <p>Xem và quản lý danh sách môn học</p>
+            </div>
+            <div class="card-arrow">
+                <i class="bi bi-arrow-right-circle"></i>
+            </div>
+        </a>
+
+        <a href="/Admin/ManageClass" class="dashboard-card class-card">
+            <div class="card-icon">
+                <i class="bi bi-grid-3x3-gap-fill"></i>
+            </div>
+            <div class="card-content">
+                <h3>Quản lý Lớp học</h3>
+                <p>Xem và quản lý thông tin lớp học</p>
+            </div>
+            <div class="card-arrow">
+                <i class="bi bi-arrow-right-circle"></i>
+            </div>
+        </a>
+
+        <a href="/Admin/ManageTeacher" class="dashboard-card teacher-card">
+            <div class="card-icon">
+                <i class="bi bi-person-badge-fill"></i>
+            </div>
+            <div class="card-content">
+                <h3>Quản lý Giáo viên</h3>
+                <p>Xem và quản lý thông tin giáo viên</p>
+            </div>
+            <div class="card-arrow">
+                <i class="bi bi-arrow-right-circle"></i>
+            </div>
+        </a>
+    </div>
+
+    <!-- Thống kê nhanh -->
+  </div>
+
+<!-- Bootstrap Icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+<style>
+    /* Thiết lập chung */
+    :root {
+        --primary-color: #4361ee;
+        --secondary-color: #3f37c9;
+        --accent-color: #4895ef;
+        --student-color: #4cc9f0;
+        --subject-color: #4adf86;
+        --class-color: #fee440;
+        --teacher-color: #f72585;
+        --text-color: #2b2d42;
+        --light-color: #f8f9fa;
+        --dark-color: #212529;
+        --border-radius: 16px;
+        --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    }
+
+    body {
+        background-color: #f5f7ff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: var(--text-color);
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Container chính */
+    .dashboard-container {
+        max-width: 1200px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+    }
+
+    /* Header */
+    .dashboard-header {
+        background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+        padding: 3rem 2rem;
+        border-radius: var(--border-radius);
+        margin-bottom: 2rem;
+        text-align: center;
+        color: white;
+        box-shadow: var(--box-shadow);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .dashboard-header::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+        transform: rotate(30deg);
+    }
+
+    .dashboard-header h1 {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .dashboard-header p {
+        font-size: 1.2rem;
+        opacity: 0.9;
+    }
+
+    /* Cards container */
+    .dashboard-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    /* Card styles */
+    .dashboard-card {
+        background: white;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        padding: 1.5rem;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--text-color);
+        transition: var(--transition);
+        position: relative;
+        overflow: hidden;
+        border-left: 5px solid transparent;
+    }
+
+    .dashboard-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+    }
+
+    .student-card {
+        border-left-color: var(--student-color);
+    }
+
+    .subject-card {
+        border-left-color: var(--subject-color);
+    }
+
+    .class-card {
+        border-left-color: var(--class-color);
+    }
+
+    .teacher-card {
+        border-left-color: var(--teacher-color);
+    }
+
+    .card-icon {
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        margin-right: 1rem;
+        font-size: 1.8rem;
+        flex-shrink: 0;
+        transition: var(--transition);
+    }
+
+    .student-card .card-icon {
+        background-color: rgba(76, 201, 240, 0.1);
+        color: var(--student-color);
+    }
+
+    .subject-card .card-icon {
+        background-color: rgba(74, 223, 134, 0.1);
+        color: var(--subject-color);
+    }
+
+    .class-card .card-icon {
+        background-color: rgba(254, 228, 64, 0.1);
+        color: var(--class-color);
+    }
+
+    .teacher-card .card-icon {
+        background-color: rgba(247, 37, 133, 0.1);
+        color: var(--teacher-color);
+    }
+
+    .dashboard-card:hover .card-icon {
+        transform: scale(1.1);
+    }
+
+    .card-content {
+        flex-grow: 1;
+    }
+
+    .card-content h3 {
+        font-size: 1.25rem;
+        margin: 0 0 0.5rem 0;
+        font-weight: 600;
+    }
+
+    .card-content p {
+        margin: 0;
+        font-size: 0.9rem;
+        color: #6c757d;
+    }
+
+    .card-arrow {
+        opacity: 0;
+        transform: translateX(20px);
+        transition: var(--transition);
+        font-size: 1.5rem;
+    }
+
+    .dashboard-card:hover .card-arrow {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    .student-card:hover .card-arrow {
+        color: var(--student-color);
+    }
+
+    .subject-card:hover .card-arrow {
+        color: var(--subject-color);
+    }
+
+    .class-card:hover .card-arrow {
+        color: var(--class-color);
+    }
+
+    .teacher-card:hover .card-arrow {
+        color: var(--teacher-color);
+    }
+
+    /* Stats section */
+    .dashboard-stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+    }
+
+    .stat-card {
+        background: white;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        padding: 1.5rem;
+        display: flex;
+        align-items: center;
+        transition: var(--transition);
+    }
+
+    .stat-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .stat-icon {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 12px;
+        margin-right: 1rem;
+        font-size: 1.5rem;
+        background-color: var(--primary-color);
+        color: white;
+        flex-shrink: 0;
+    }
+
+    .stat-content h4 {
+        margin: 0 0 0.25rem 0;
+        font-size: 1rem;
+        color: #6c757d;
+    }
+
+    .stat-number {
+        font-size: 1.75rem;
+        font-weight: 700;
+        margin: 0;
+        color: var(--text-color);
+    }
+
+    /* Responsive adjustments */
+   
+</style>

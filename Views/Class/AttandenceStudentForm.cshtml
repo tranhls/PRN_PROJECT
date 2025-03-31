@@ -1,0 +1,130 @@
+﻿@{
+    var day = ViewBag.Day;
+    var classId = ViewBag.ClassId;
+    var attendanceDetails = ViewBag.AttendanceDetails as List<PRN222_Assm.Models.Attendance>;
+    // Không cần sử dụng ViewBag.Students nữa
+}
+@if(1==2)
+{
+<div class="container mt-4">
+    <h3 class="text-center">Attendance for Day @day - Class @classId</h3>
+
+    <form method="post" action="@Url.Action("SubmitAttendance", "Class")">
+        <input type="hidden" name="classId" value="@classId" />
+        <input type="hidden" name="day" value="@day" />
+        <table class="table table-bordered table-hover">
+            <thead class="table-primary">
+                <tr>
+                    <th>Student Name</th>
+                    <th>Attendance Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var attendance in attendanceDetails)
+                {
+                    if (attendance?.Class?.Student != null)
+                    {
+                        var student = attendance.Class.Student;
+                        var isPresentSelected = attendance.isPresent;
+                        var isAbsentSelected = !attendance.isPresent;
+
+                        <tr>
+                            <td>@student.Name</td>
+                            <td>
+                                <select name="attendance_@student.Id" class="form-control">
+                                    @if (isPresentSelected)
+                                    {
+                                        <option value="1" selected>Present</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="1">Present</option>
+                                    }
+
+                                    @if (isAbsentSelected)
+                                    {
+                                        <option value="0" selected>Absent</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="0">Absent</option>
+                                    }
+                                </select>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            <button type="submit" class="btn btn-success">Submit Attendance</button>
+        </div>
+    </form>
+</div>
+}
+
+
+
+<div class="container mt-4">
+    <h3 class="text-center">Attendance for Day @day - Class @classId</h3>
+
+    <form method="post" action="@Url.Action("SubmitAttendance", "Class")">
+        <input type="hidden" name="classId" value="@classId" />
+        <input type="hidden" name="day" value="@day" />
+        <table class="table table-bordered table-hover">
+            <thead class="table-primary">
+                <tr>
+                    <th>Student Name</th>
+                    <th>Attendance Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (attendanceDetails != null && attendanceDetails.Any())
+                {
+                    foreach (var attendance in attendanceDetails)
+                    {
+                        if (attendance?.Class?.Student != null)
+                        {
+                            var student = attendance.Class.Student;
+
+                            <tr>
+                                <td>@student.Name</td>
+                                <td>
+                                    <!-- Hidden input để gửi attendanceId -->
+                                    <input type="hidden" name="attendanceIds" value="@attendance.Id" />
+
+                                    <!-- Radio buttons để chọn trạng thái -->
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio"
+                                               name="isPresent_@attendance.Id"
+                                               id="present_@attendance.Id"
+                                               value="true"
+                                        @(attendance.isPresent ? "checked" : "") />
+                                        <label class="form-check-label" for="present_@attendance.Id">Present</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio"
+                                               name="isPresent_@attendance.Id"
+                                               id="absent_@attendance.Id"
+                                               value="false"
+                                        @(!attendance.isPresent ? "checked" : "") />
+                                        <label class="form-check-label" for="absent_@attendance.Id">Absent</label>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="2" class="text-center">No attendance data available.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            <button type="submit" class="btn btn-success">Submit Attendance</button>
+        </div>
+    </form>
+</div>

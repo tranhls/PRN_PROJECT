@@ -29,6 +29,8 @@ public partial class PrnassmContext : DbContext
 
     public virtual DbSet<Subject> Subjects { get; set; }
 
+    public virtual  DbSet<Attendance> Attendances { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         var config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
@@ -67,7 +69,7 @@ public partial class PrnassmContext : DbContext
             entity.ToTable("Class");
 
             entity.Property(e => e.Code)
-                .HasMaxLength(10)
+                .HasMaxLength(50)
                 .IsFixedLength();
             entity.Property(e => e.Name)
                 .HasMaxLength(100)
@@ -132,7 +134,7 @@ public partial class PrnassmContext : DbContext
             entity.ToTable("Subject");
 
             entity.Property(e => e.Code)
-                .HasMaxLength(10)
+                .HasMaxLength(50)
                 .IsFixedLength();
             entity.Property(e => e.Name)
                 .HasMaxLength(100)

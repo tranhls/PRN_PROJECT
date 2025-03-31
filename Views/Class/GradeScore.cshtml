@@ -3,6 +3,18 @@
 *@
 @{
 }
+@using System.Security.Claims
+
+@{
+    var userEmail = User.FindFirst(ClaimTypes.Email)?.Value;
+    var userRole = User.FindFirst(ClaimTypes.Role)?.Value;
+    if (userRole == null)
+    {
+        userRole = "Guest";
+    }
+
+    // Console.WriteLine("role = " + userRole);
+}
 
 <div class="container mt-4">
     <div class="card shadow-lg">
@@ -40,21 +52,43 @@
                                 <input type="hidden" name="students[@(index-1)].Id" value="@item.StudentId" />
                                 <td>@index</td>
                                 <td>@item.Student.Name</td>
-                                <td class="col-1">
-                                    <input type="number" class="form-control" name="students[@(index-1)].Pt1" value="@item.Score?.Pt1" @(item.Score?.Pt1 != null ? "readonly" : "") />
-                                </td>
-                                <td class="col-1">
-                                    <input type="number" class="form-control" name="students[@(index-1)].Pt2" value="@item.Score?.Pt2" @(item.Score?.Pt2 != null ? "readonly" : "") />
-                                </td>
-                                <td class="col-1">
-                                    <input type="number" class="form-control" name="students[@(index-1)].Quiz" value="@item.Score?.Quiz" @(item.Score?.Quiz != null ? "readonly" : "") />
-                                </td>
-                                <td class="col-1">
-                                    <input type="number" class="form-control" name="students[@(index-1)].Assignment" value="@item.Score?.Assignment" @(item.Score?.Assignment != null ? "readonly" : "") />
-                                </td>
-                                <td class="col-1">
-                                    <input type="number" class="form-control" name="students[@(index-1)].Final" value="@item.Score?.Final" @(item.Score?.Final != null ? "readonly" : "") />
-                                </td>
+
+                                @if (userRole == "Teacher")
+                                {
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Pt1" value="@item.Score?.Pt1" @(item.Score?.Pt1 != null ? "readonly" : "") />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Pt2" value="@item.Score?.Pt2" @(item.Score?.Pt2 != null ? "readonly" : "") />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Quiz" value="@item.Score?.Quiz" @(item.Score?.Quiz != null ? "readonly" : "") />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Assignment" value="@item.Score?.Assignment" @(item.Score?.Assignment != null ? "readonly" : "") />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Final" value="@item.Score?.Final" @(item.Score?.Final != null ? "readonly" : "") />
+                                    </td>
+                                } else if(userRole == "Admin")
+                                {
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Pt1" value="@item.Score?.Pt1"  />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Pt2" value="@item.Score?.Pt2"  />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Quiz" value="@item.Score?.Quiz"  />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Assignment" value="@item.Score?.Assignment"  />
+                                    </td>
+                                    <td class="col-1">
+                                        <input type="number" class="form-control" name="students[@(index-1)].Final" value="@item.Score?.Final"  />
+                                    </td>
+                                }
+
                                 <td class="col-1">@(item.Total?.ToString("F2") ?? "Ungraded")</td>
                                 <td>
                                     @if (item.Total == null)

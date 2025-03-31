@@ -20,4 +20,6 @@ public partial class StudentClass
     public virtual Score? Score { get; set; }
 
     public virtual Account? Student { get; set; }
+
+    public virtual ICollection<Attendance> Attendances { get; set; } = new List<Attendance>();
 }

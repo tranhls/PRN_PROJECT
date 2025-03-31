@@ -56,5 +56,33 @@ namespace PRN222_Assm.Controllers
             ViewBag.MyClass = myClass;
             return View();
         }
+
+        public IActionResult MyAttendance(int classId)
+        {
+            var email = User.FindFirst(ClaimTypes.Email)?.Value;
+            var account = _context.Accounts.FirstOrDefault(u => u.Email == email);
+
+            List<Attendance> attendances = _context.Attendances
+                .Where(sc => sc.Class.ClassId == classId && sc.Class.StudentId == account.Id).ToList();
+
+            var days = Enumerable.Range(1, 15).Select(day => attendances.FirstOrDefault(a => a.Day == day) ?? new Attendance { Day = day, isPresent = false }).ToList();
+
+            var myClass = _context.Classes.Include(c => c.SubjectNavigation)
+                                           .Include(c => c.Semester)
+                                            .Include(c => c.SubjectNavigation)
+                                           .FirstOrDefault(c => c.Id == classId);
+            
+            ViewBag.ClassName = myClass;
+
+            ViewBag.Account = account;
+            ViewBag.MyAttendance = days;
+            return View();
+        }
+
+        public IActionResult Detail(int classId)
+        {
+
+            return View();
+        }
     }
 }

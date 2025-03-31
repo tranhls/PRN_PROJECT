@@ -8,6 +8,7 @@
     {
         userRole = "Guest";
     }
+
 }
 <div class="container mt-4">
     <div class="card shadow-lg">
@@ -20,16 +21,38 @@
     </div>
 
     <div class="table-responsive mt-4">
-        @if (userRole == "Teacher")
+        @if (userRole == "Teacher" )
         {
+
             <div class="d-flex justify-content-end p-3">
-                <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score</a>
+                <a asp-action="AttandenceStudent" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-success me-2">Attandence</a>
+                <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score </a>
             </div>
         }
         else if (userRole == "Admin") {
-            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#studentModal">
-                Add Student
-            </button>
+            @* <div class="d-flex justify-content-end p-3"> *@
+            @*     <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score</a> *@
+            @* </div> *@
+
+
+            @if(1==2)
+            {
+                 <div class="d-flex justify-content-between p-3"> 
+                     <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#studentModal"> 
+                         Add Student 
+                    </button> 
+                 </div> 
+            }
+
+    
+            {
+                <div class="d-flex justify-content-between p-3">
+                    <a asp-action="GradeScore" asp-route-id="@ViewBag.MyClass.Id" class="btn btn-primary">Grade Score </a>
+                    <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#studentModal">
+                        Add Student
+                    </button>
+                </div>
+            }
         }
     </div>
     <table class="table table-hover table-bordered text-center">

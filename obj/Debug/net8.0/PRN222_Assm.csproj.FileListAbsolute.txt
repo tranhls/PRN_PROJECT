@@ -181,3 +181,1111 @@ D:\FPT\Spring25\PRN222\Code\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\wi
 D:\FPT\Spring25\PRN222\Code\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\FPT\Spring25\PRN222\Code\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
 D:\FPT\Spring25\PRN222\Code\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT\Spring25\PRN222\Code\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.runtime.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.exe
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.deps.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.runtimeconfig.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.pdb
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Humanizer.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.forms.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.io.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.layout.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.sign.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.svg.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.commons.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.AssemblyReference.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfoInputs.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfo.cs
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.CoreCompileInputs.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cs
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.sourcelink.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.build.PRN222_Assm.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRN222_Assm.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRN222_Assm.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\bundle\PRN222_Assm.styles.css
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\projectbundle\PRN222_Assm.bundle.scp.css
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_A.4675EF63.Up2Date
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\refint\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.pdb
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.genruntimeconfig.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\ref\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.Development.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.endpoints.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.runtime.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.exe
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.deps.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.runtimeconfig.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.pdb
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Core.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Identity.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Humanizer.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.barcodes.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.forms.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.io.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.kernel.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.layout.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfa.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfua.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.sign.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.styledxmlparser.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.svg.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.commons.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.ClientModel.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.CodeDom.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Memory.Data.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Json.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.AssemblyReference.cache
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfoInputs.cache
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfo.cs
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.CoreCompileInputs.cache
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.MvcApplicationPartsAssemblyInfo.cache
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cache
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cs
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.sourcelink.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\bundle\PRN222_Assm.styles.css
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\projectbundle\PRN222_Assm.bundle.scp.css
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.development.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssets.props
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.build.PRN222_Assm.props
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRN222_Assm.props
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRN222_Assm.props
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.pack.json
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_A.4675EF63.Up2Date
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\refint\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.pdb
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.genruntimeconfig.cache
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\ref\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.Development.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.endpoints.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.runtime.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.exe
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.deps.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.runtimeconfig.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.pdb
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Core.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Identity.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Humanizer.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.barcodes.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.forms.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.io.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.kernel.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.layout.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfa.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfua.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.sign.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.styledxmlparser.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.svg.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.commons.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.ClientModel.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.CodeDom.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Memory.Data.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Json.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.AssemblyReference.cache
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfoInputs.cache
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfo.cs
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.CoreCompileInputs.cache
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.MvcApplicationPartsAssemblyInfo.cache
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cache
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cs
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.sourcelink.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\bundle\PRN222_Assm.styles.css
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\projectbundle\PRN222_Assm.bundle.scp.css
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.development.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssets.props
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.build.PRN222_Assm.props
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRN222_Assm.props
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRN222_Assm.props
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.pack.json
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_A.4675EF63.Up2Date
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\refint\PRN222_Assm.dll
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.pdb
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.genruntimeconfig.cache
+E:\zzzzzzzzzzzz\chinh_sua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\ref\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.Development.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.endpoints.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.runtime.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.exe
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.deps.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.runtimeconfig.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.pdb
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Core.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Identity.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Humanizer.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.barcodes.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.forms.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.io.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.kernel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.layout.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfa.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfua.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.sign.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.styledxmlparser.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.svg.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.commons.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.ClientModel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.CodeDom.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Json.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.AssemblyReference.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfoInputs.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfo.cs
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.CoreCompileInputs.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.MvcApplicationPartsAssemblyInfo.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cs
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.sourcelink.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\bundle\PRN222_Assm.styles.css
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\projectbundle\PRN222_Assm.bundle.scp.css
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.development.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.build.PRN222_Assm.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRN222_Assm.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRN222_Assm.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_A.4675EF63.Up2Date
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\refint\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.pdb
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.genruntimeconfig.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\ref\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.Development.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.endpoints.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.runtime.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.exe
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.deps.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.runtimeconfig.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.pdb
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Core.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Identity.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Humanizer.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.barcodes.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.forms.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.io.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.kernel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.layout.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfa.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfua.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.sign.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.styledxmlparser.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.svg.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.commons.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.ClientModel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.CodeDom.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Json.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.AssemblyReference.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfoInputs.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfo.cs
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.CoreCompileInputs.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.MvcApplicationPartsAssemblyInfo.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cs
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.sourcelink.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\bundle\PRN222_Assm.styles.css
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\projectbundle\PRN222_Assm.bundle.scp.css
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.development.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.build.PRN222_Assm.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRN222_Assm.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRN222_Assm.props
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_A.4675EF63.Up2Date
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\refint\PRN222_Assm.dll
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.pdb
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.genruntimeconfig.cache
+E:\Z_Code_ding\sua_chua\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\ref\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\libman.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\appsettings.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.staticwebassets.runtime.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.exe
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.deps.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.runtimeconfig.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\PRN222_Assm.pdb
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Humanizer.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.forms.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.io.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.layout.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.sign.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.svg.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\itext.commons.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.AssemblyReference.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfoInputs.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.AssemblyInfo.cs
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.csproj.CoreCompileInputs.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.RazorAssemblyInfo.cs
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.sourcelink.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.PRN222_Assm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.build.PRN222_Assm.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRN222_Assm.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRN222_Assm.props
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\bundle\PRN222_Assm.styles.css
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\scopedcss\projectbundle\PRN222_Assm.bundle.scp.css
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_A.4675EF63.Up2Date
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\refint\PRN222_Assm.dll
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.pdb
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\PRN222_Assm.genruntimeconfig.cache
+C:\Users\DO NHAT TRUNG ANH\Pictures\PRN_PROJECT_last_version\PRN_PROJECT\PRN222_Assm\PRN222_Assm\obj\Debug\net8.0\ref\PRN222_Assm.dll

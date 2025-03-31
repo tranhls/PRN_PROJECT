@@ -4,6 +4,46 @@
     ViewData["Title"] = "Add Student";
 }
 
+<script>
+    function validateForm(event) {
+        let name = document.getElementById("Name").value.trim();
+        let dob = document.getElementById("Dob").value;
+        let email = document.getElementById("Email").value.trim();
+        let phone = document.getElementById("Phone").value.trim();
+        let address = document.getElementById("Address").value.trim();
+        let code = document.getElementById("Code").value.trim();
+        let password = document.getElementById("Password").value.trim();
+
+        let isValid = true;
+        let errorMessage = "";
+
+        // Kiểm tra trường không được bỏ trống
+        if (!name || !dob || !email || !phone || !address || !code || !password) {
+            errorMessage += "All fields are required.\n";
+            isValid = false;
+        }
+
+        // Kiểm tra định dạng ngày sinh (YYYY-MM-DD)
+        let dobRegex = /^\d{4}-\d{2}-\d{2}$/;
+        if (!dobRegex.test(dob)) {
+            errorMessage += "Invalid date format. Please enter a valid date (YYYY-MM-DD).\n";
+            isValid = false;
+        }
+
+        // Kiểm tra số điện thoại (chỉ chứa số và 10 chữ số)
+        let phoneRegex = /^\d{10}$/;
+        if (!phoneRegex.test(phone)) {
+            errorMessage += "Phone number must be exactly 10 digits.\n";
+            isValid = false;
+        }
+
+        if (!isValid) {
+            alert(errorMessage);
+            event.preventDefault();
+        }
+    }
+</script>
+
 <div class="container mt-5">
     <div class="row justify-content-center">
         <div class="col-md-6 col-12">
@@ -12,31 +52,34 @@
                     <h3 class="mb-0">Add New Student</h3>
                 </div>
                 <div class="card-body">
-                    <form asp-action="AddStudent" method="post">
+                    <form asp-action="AddStudent" method="post" onsubmit="validateForm(event)">
                         <div class="mb-3">
                             <label asp-for="Name" class="form-label">Student Name</label>
-                            <input asp-for="Name" name="Name" class="form-control" required>
+                            <input asp-for="Name" id="Name" name="Name" class="form-control" required>
                         </div>
 
                         <div class="mb-3">
                             <label asp-for="Dob" class="form-label">Date of Birth</label>
-                            <input asp-for="Dob" name="Dob" class="form-control" type="date" required>
+                            <input asp-for="Dob" id="Dob" name="Dob" class="form-control" type="date" required>
                         </div>
+
                         <div class="mb-3">
                             <label asp-for="Email" class="form-label">Mail</label>
-                            <input asp-for="Email" name="Email" class="form-control" type="email" required>
+                            <input asp-for="Email" id="Email" name="Email" class="form-control" type="email" required>
                             @if (!string.IsNullOrEmpty(ViewBag.EmailExit))
                             {
                                 <div class="alert alert-danger mt-2">@ViewBag.EmailExit</div>
                             }
                         </div>
+
                         <div class="mb-3">
                             <label asp-for="Password" class="form-label">Password</label>
-                            <input asp-for="Password" name="Password" class="form-control">
+                            <input asp-for="Password" id="Password" name="Password" class="form-control" required>
                         </div>
+
                         <div class="mb-3">
                             <label asp-for="Phone" class="form-label">Phone</label>
-                            <input asp-for="Phone" name="Phone" class="form-control" required>
+                            <input asp-for="Phone" id="Phone" name="Phone" class="form-control" required>
                             @if (!string.IsNullOrEmpty(ViewBag.PhoneExit))
                             {
                                 <div class="alert alert-danger mt-2">@ViewBag.PhoneExit</div>
@@ -45,18 +88,18 @@
 
                         <div class="mb-3">
                             <label asp-for="Address" class="form-label">Address</label>
-                            <input asp-for="Address" name="Address" class="form-control">
+                            <input asp-for="Address" id="Address" name="Address" class="form-control" required>
                         </div>
-                        
 
                         <div class="mb-3">
                             <label asp-for="Code" class="form-label">Student Code</label>
-                            <input asp-for="Code" name="Code" class="form-control" required>
+                            <input asp-for="Code" id="Code" name="Code" class="form-control" required>
                             @if (!string.IsNullOrEmpty(ViewBag.CodeExited))
                             {
                                 <div class="alert alert-danger mt-2">@ViewBag.CodeExited</div>
                             }
                         </div>
+
                         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
                             <button type="submit" class="btn btn-primary">Add Student</button>
                             <a asp-action="ManageStudent" class="btn btn-danger">Cancel</a>
